@@ -1,0 +1,34 @@
+div#inicio div.ui-content {
+    padding: 0;
+	margin:0;	
+	background-color:#fff;
+}
+
+#chord {
+	text-align:center;
+}
+
+#chordname {
+	font-size:42px;
+	margin:10px;
+}
+
+#chorddiagram {
+	width:240px; 
+	margin-bottom:10px
+}
+
+img.bemol {
+    vertical-align: bottom;
+    width: 24px;
+}
+
+img.sharp {
+    vertical-align: bottom;
+    width: 30px;
+}
+
+img.splash#chorddiagram {
+	width:300px; 
+}
+
