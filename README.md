@@ -9,3 +9,6 @@ Easy Chords is a Guitar chords library app for mobile devices with the essential
    - 2 chord sound modes: Strum or Arpeggio.
    - Swipe right over the chord diagram to play the chord sound.
    - Tap on chord diagram to toggle between chord diagrams.
+
+
+http://www.palasaka.com/apps/2337-easy-chords
