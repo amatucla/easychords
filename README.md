@@ -10,6 +10,6 @@ Easy Chords is a Guitar chords library app for mobile devices with the essential
    - Swipe right over the chord diagram to play the chord sound.
    - Tap on chord diagram to toggle between chord diagrams.
 
-# Demo
+## Demo
 
 http://easy-chords.palasaka.net
