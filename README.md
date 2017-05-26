@@ -11,4 +11,5 @@ Easy Chords is a Guitar chords library app for mobile devices with the essential
    - Tap on chord diagram to toggle between chord diagrams.
 
 # Demo
-http://www.palasaka.com/apps/2337-easy-chords
+
+http://easy-chords.palasaka.net
