@@ -1,1 +1,1 @@
-# easychords
+# EasyChords
